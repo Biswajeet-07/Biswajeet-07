@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Biswajeet-23/readme-cover/blob/main/readme-bg-cover.png)
 <h1 align="center">Hi 👋, I'm Biswajeet Sahoo</h1>
-<h3 align="center">MERN Stack | App Developer</h3>
+<h3 align="center">FULL Stack | App Developer</h3>
 
 
 
